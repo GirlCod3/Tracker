@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "134671105751",
-    "firebase_url": "https://chat-11aa6.firebaseio.com",
-    "project_id": "chat-11aa6",
-    "storage_bucket": "chat-11aa6.appspot.com"
+    "project_number": "884055521490",
+    "firebase_url": "https://tracker-6ad11.firebaseio.com",
+    "project_id": "tracker-6ad11",
+    "storage_bucket": "tracker-6ad11.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:134671105751:android:7b6be4cd06693d7c",
+        "mobilesdk_app_id": "1:884055521490:android:0103f7657da9ad47",
         "android_client_info": {
-          "package_name": "hung.iw.chat"
+          "package_name": "com.example.stephanieprussick.tracker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "134671105751-gnf99em9grankic9qdr25pqfha755gr7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "hung.iw.chat",
-            "certificate_hash": "bd5a315e253970d7a5596fdc277f64d70168b1b5"
-          }
-        },
-        {
-          "client_id": "134671105751-hqtitd8iseu5pqjo2el964c6o8s6ouka.apps.googleusercontent.com",
+          "client_id": "884055521490-0154268csre35k6omghu2b0qij650cto.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAMSphG92sz8xSPOAQp9RdnUvpySt8XsFA"
+          "current_key": "AIzaSyB5bewd_Y7psb2MNpU2T02GD1VnwLPbH04"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "134671105751-hqtitd8iseu5pqjo2el964c6o8s6ouka.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
